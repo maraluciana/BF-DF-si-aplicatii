@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1636582090 source:c:\users\mara\desktop\af\ctc\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<stack>
-

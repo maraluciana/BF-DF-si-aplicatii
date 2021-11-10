@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636396906 source:c:\users\mara\desktop\af\dfs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636378291 source:c:\users\mara\desktop\af\bfs\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<queue>
+	<vector>
+
